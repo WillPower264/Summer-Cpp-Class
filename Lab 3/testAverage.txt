@@ -1,0 +1,1 @@
+The test average of nan, 4.94066e-324, 1.97755e-317, 2.17389e-322, and 2.0935e-317 is nan.

@@ -1,0 +1,11 @@
+Lab 8 Directions
+File I/O #9, 12, 13
+
+8. while & if-else, 10 and 20
+9. for & if-else, 10 and 20
+12. while, current population of A: 5000
+				 B: 8000
+	     growth rate of town A: 4
+				 B: 2
+13. non-neg int: 873	
+14. non-neg int: 873

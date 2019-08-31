@@ -1,0 +1,10 @@
+The vowels in the sentence "Summer only comes once a year." are:
+
+A/a:	2
+E/e:	4
+I/i:	0
+O/o:	3
+U/u:	1
+
+Total: 	10
+

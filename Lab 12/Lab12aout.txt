@@ -1,0 +1,10 @@
+Candidate 	    Votes Received   % of Total Votes
+
+Johnson   		5,000		25.907
+Miller   		4,000		20.725
+Duffy   		6,000		31.088
+Robinson   		2,500		12.953
+Ashtony   		1,800		9.326
+Total   		19,300
+
+The winner of the election is Duffy.

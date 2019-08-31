@@ -1,0 +1,3 @@
+In 25 years, the population of town A will be equal to or greater than the population of town B.
+Town A will have a population of 13,308 people.
+Town B will have a population of 13,110 people.

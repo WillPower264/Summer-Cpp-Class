@@ -1,0 +1,12 @@
+Lab 10 Directions
+File I/O # 19, 20, 22
+
+19. functions: bool isLeapYear, in daysInMonth, int numberOfDays
+    date: 7-4-2014
+20. void countVowels(&)
+    Summer only comes once a year.
+22. void digitCount(&)
+    23040598763
+1.  void printStars(recursion)
+    function calls itself
+    enter # of lines in grid: 4	

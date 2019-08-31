@@ -1,0 +1,2 @@
+Grand total number of tickets sold: 	88,250 tickets.
+Grand total sale amount: 		$6,493,750.00.

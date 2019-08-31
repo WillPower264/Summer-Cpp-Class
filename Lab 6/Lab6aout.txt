@@ -1,0 +1,2 @@
+This equation has two real roots.
+The roots of the quadratic equation 19x^2 + 23x +(-189) = 0 are 2.60623 and -3.81676.

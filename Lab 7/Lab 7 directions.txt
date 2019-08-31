@@ -1,0 +1,13 @@
+Lab 7 Instructions
+File I/O #1, 4, 6
+
+a. while loop & if, 2345
+b. for & if-else, 999
+c. switch & while
+	Enter Y/y to convert tel no. from letters to digits
+	Enter any letter to terminate
+	Enter tel # using letters College
+	Corresponding tel no. is ____________
+d. for & if-else, 1 2 3 4 5 6 ...20
+e. while & if-else, 251
+f. do-while & if-else, 12345677

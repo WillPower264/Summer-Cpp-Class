@@ -1,0 +1,6 @@
+The original price is: 	$238.95
+The mark up rate is: 	8.50%
+The selling price is: 	$259.26
+The sales tax rate is: 	7.00%
+The sales tax is: 	$18.15
+The final price is: 	$277.41

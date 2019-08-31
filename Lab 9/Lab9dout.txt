@@ -1,0 +1,10 @@
+The distance is: 	7.211 units
+
+The radius is: 		7.211 units
+
+The diameter is: 	14.422 units
+
+The circumference is:	45.309 units
+
+The area is: 		163.363 units squared
+

@@ -1,0 +1,8 @@
+Lab 9 Directions
+File I/O #2, 8
+
+2. enter character: g
+3. enter sentence: Summer only comes once a year.
+6. enter integer: 76543
+8. C(x,y): (5, 9)
+     point (1, 3)	

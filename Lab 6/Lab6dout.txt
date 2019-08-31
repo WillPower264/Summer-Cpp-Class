@@ -1,0 +1,4 @@
+Your account number is: 12345
+Your account type is: 	Regular
+Your minutes used are: 	79
+Your bill is: 		$15.80

@@ -1,0 +1,15 @@
+Name   		Hours 		Hourly Pay 	Weekly Salary
+
+Johnson   	60.00		$12.50		$875.00		
+Aniston   	65.00		$13.25		$1,026.88		
+Cooper   	50.00		$14.50		$797.50		
+Gupta   	70.00		$14.75		$1,253.75		
+Blair   	55.00		$10.50		$656.25		
+Clark   	40.00		$18.75		$750.00		
+Kennedy   	45.00		$20.50		$973.75		
+Bronson   	60.00		$20.00		$1,400.00		
+Sunny   	65.00		$18.75		$1,453.12		
+Smith   	30.00		$9.75		$292.50		
+
+The average weekly salary is: $947.88
+Aniston Gupta Kennedy Bronson Sunny have salaries greater than the average weekly salary.

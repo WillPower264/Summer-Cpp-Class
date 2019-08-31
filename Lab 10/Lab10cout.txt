@@ -1,0 +1,6 @@
+The number 23,040,598,763 has: 
+
+Even digits: 	4
+Odd digits: 	5
+Zeroes: 	2
+

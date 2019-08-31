@@ -1,0 +1,1 @@
+The test average of 72.0, 87.0, 63.0, 91.0, and 76.0 is 77.800.

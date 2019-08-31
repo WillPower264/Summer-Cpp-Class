@@ -1,0 +1,5 @@
+struct comma_facet : public std:: numpunct<char>				//to use commas
+{protected: string do_grouping() const {return "\003" ; } };
+
+
+cout.imbue( locale( cout.getloc(), new comma_facet ) );		//to use commas

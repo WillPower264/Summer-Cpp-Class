@@ -1,0 +1,2 @@
+The sum of 32.4, 65.7, 91.8, 57.2, and 10.4 is 257.500.
+Also, the average of 32.4, 65.7, 91.8, 57.2, and 10.4 is 51.500

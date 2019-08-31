@@ -1,0 +1,11 @@
+Lab 11 Directions
+File I/O #1, 4, 6
+
+1. functions: main, initialize, print
+2. functions: main, printArray, smallestIndex
+   use const arrays as arguments where needed
+   56, 34, 67, 54, 23, 87, 66, 92, 15, 32, 55, 54, 88, 22, 30
+4. functions: main, readData, print
+5. functions: main, toUpperCase
+   string: Summer only comes once a year.
+6. functions: main, examGrade

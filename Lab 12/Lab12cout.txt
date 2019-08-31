@@ -1,0 +1,7 @@
+Name   		Mon	Tues	Wed	Thur	Fri	Sat	Sun 	Total	  Average
+
+Jason    	10	15	20	25	18	20	26	134.000	  19.143
+Samantha    	15	18	29	16	26	20	23	147.000	  21.000
+Ravi    	20	26	18	29	10	12	20	135.000	  19.286
+Sheila    	17	20	15	26	18	25	12	133.000	  19.000
+Ankit    	16	8	28	20	11	25	21	129.000	  18.429
